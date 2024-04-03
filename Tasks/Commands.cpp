@@ -358,4 +358,3 @@ void Commands::SendBackCurrentPosition()
 	buffer[11] = CalculateChecksum(&buffer[3], 8);
 	Serial.write(buffer, 12);
 }
-

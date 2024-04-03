@@ -19,25 +19,25 @@
 							<builder buildPath="${workspace_loc:/xy_table_driver}/Release" id="io.sloeber.sketch.builder.727985171" keepEnvironmentInBuildfile="false" name="Arduino sketch builder" superClass="io.sloeber.sketch.builder"/>
 							<tool id="io.sloeber.tool.sketch.compiler.cpp.1714166781" name="Arduino C++ Compiler" superClass="io.sloeber.tool.sketch.compiler.cpp">
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="io.sloeber.compiler.cpp.sketch.option.incpath.1663253650" name="Include Paths (-I)" superClass="io.sloeber.compiler.cpp.sketch.option.incpath" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/xy_table_driver/core/variant}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/xy_table_driver/core/core}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/xy_table_driver/libraries/WiFi/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RoboRoyale_xy_table_driver/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RoboRoyale_xy_table_driver/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RoboRoyale_xy_table_driver/libraries/WiFi/src}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.cpp.sketch.input.1194525556" name="CPP source files" superClass="io.sloeber.compiler.cpp.sketch.input"/>
 							</tool>
 							<tool id="io.sloeber.tool.compiler.c.1075873494" name="Arduino C Compiler" superClass="io.sloeber.tool.compiler.c">
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="io.sloeber.compiler.c.sketch.option.incpath.28706452" name="Include Paths (-I)" superClass="io.sloeber.compiler.c.sketch.option.incpath" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/xy_table_driver/core/variant}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/xy_table_driver/core/core}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/xy_table_driver/libraries/WiFi/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RoboRoyale_xy_table_driver/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RoboRoyale_xy_table_driver/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RoboRoyale_xy_table_driver/libraries/WiFi/src}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.c.sketch.input.2110043413" name="C Source Files" superClass="io.sloeber.compiler.c.sketch.input"/>
 							</tool>
 							<tool id="io.sloeber.tool.sketch.compiler.s.1347908501" name="Arduino Assembler" superClass="io.sloeber.tool.sketch.compiler.s">
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="io.sloeber.compiler.asm.sketch.option.incpath.442084981" name="Include Paths (-I)" superClass="io.sloeber.compiler.asm.sketch.option.incpath" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/xy_table_driver/core/variant}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/xy_table_driver/core/core}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/xy_table_driver/libraries/WiFi/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RoboRoyale_xy_table_driver/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RoboRoyale_xy_table_driver/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RoboRoyale_xy_table_driver/libraries/WiFi/src}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.S.sketch.input.911204624" name="Assembly source files" superClass="io.sloeber.compiler.S.sketch.input"/>
 							</tool>
